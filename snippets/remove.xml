@@ -9,6 +9,10 @@
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
 
+  <!-- external repo -->
+  <remove-project name="platform/hardware/qcom/sdm845/display" />
+  <remove-project name="platform/hardware/qcom/sdm845/media" />
+
   <!-- packages repos -->
   <remove-project name="platform/packages/apps/Settings" />
 
