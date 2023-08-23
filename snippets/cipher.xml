@@ -34,7 +34,7 @@
   <!-- hardware repos -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" groups="pdk" remote="arrow" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="arrow" />
-  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" groups="pdk" remote="github" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" groups="pdk" remote="lineage" />
 
   <!-- packages repos -->
   <!-- <project path="packages/apps/CipherShades" name="android_packages_apps_CipherShades" groups="pdk" remote="cipher" /> -->

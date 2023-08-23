@@ -5,8 +5,9 @@
            fetch="https://github.com/CipherOS-Reviveds"
            revision="thirteen" />
 
-  <remote  name="github"
-           fetch="https://github.com/" />
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS"
+           revision="lineage-20" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
